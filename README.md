@@ -6,7 +6,7 @@ Quite a lot about probability theory and it's application to non-constructive co
 
 ## What am I working on? 
 
-- Adding further features, unit tests and docs to my [PyDynSys](https://github.com/jg1011/PyDynSys), getting ready to push v1.0.0 & leave the alpha stage
+- Adding further features, unit tests and docs to my [PyDynSys library](https://github.com/jg1011/PyDynSys), getting ready to push v1.0.0 & leave the alpha stage
 - Training heirarchical and meta reinforcement learning models to solve the tower of Hanoi problem with $N$ rings.
 - Proprietary state-management software for DEX data obtained via Solana Validators
 
